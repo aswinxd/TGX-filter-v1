@@ -8,7 +8,7 @@ import requests,os,wget
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 import asyncio
 from info import LOG_CHANNEL
-BUTTONS = InlineKeyboardMarkup([[InlineKeyboardButton('ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋs', url='https://t.me/Team_Netflix/33')]])
+BUTTONS = InlineKeyboardMarkup([[InlineKeyboardButton('ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋs', url='https://t.me/tgxupdate/33')]])
 A = """{} with user id:- {} used /saavn command."""
 B = """{} with user id:- {} used /vsaavn command."""
 
@@ -74,7 +74,7 @@ async def video(client, message):
         InlineKeyboardButton("ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴊᴏɪɴ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ", url="https://t.me/movie7xchat")
     ]]                           
     await message.reply_video(
-    video=ffile, caption=f"[{sname}]({r['data']['results'][0]['url']}) - from @team_netflix ",thumb=thumbnail,
+    video=ffile, caption=f"[{sname}]({r['data']['results'][0]['url']}) - from @tgxupdate ",thumb=thumbnail,
     reply_markup=InlineKeyboardMarkup(buttons)
 )
     await message.reply_text(text="download flac song @flac_english")

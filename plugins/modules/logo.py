@@ -1,4 +1,4 @@
-# Copyright (C) 2023 CodeFlix_Bots (telegram)
+# Copyright (C) 2023 tgx_bots (telegram)
 #Licensed under the  AGPL-3.0 License;
 #you may not use this file except in compliance with the License.
 #Author MIKEY

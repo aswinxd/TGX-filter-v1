@@ -11,7 +11,7 @@
 
 Here's a tutorial on how to deploy Lucy Bot - <b>[ᴛᴜᴛᴏʀɪᴀʟ](https://youtu.be/ogrubGanI_M?si=Q57HMr7q_kAdETun)</b>
 
-ʏᴏᴜ ᴡɪʟʟ ꜰɪɴᴅ ᴛʜɪs ʙᴏᴛ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs <b>[ʟᴜᴄʏ ᴀᴜᴛᴏғɪʟᴛᴇʀ ʙᴏᴛ](https://telegram.me/LUCY_FILTER_BOT)</b>
+ʏᴏᴜ ᴡɪʟʟ ꜰɪɴᴅ ᴛʜɪs ʙᴏᴛ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs <b>[ʟᴜᴄʏ ᴀᴜᴛᴏғɪʟᴛᴇʀ ʙᴏᴛ](https://telegram.me/TgxFilmBot)</b>
 
 <details>
   <summary><b>ꜰᴇᴀᴛᴜʀᴇs :</b></summary>
@@ -72,7 +72,7 @@ Here's a tutorial on how to deploy Lucy Bot - <b>[ᴛᴜᴛᴏʀɪᴀʟ](https:/
 - [x] ɪᴅ ᴀɴᴅ ᴜsᴇʀ ɪɴғᴏ
 - [x] ᴏᴛʜᴇʀ ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs
 
-<b>ᴛᴏ ᴋɴᴏᴡ ᴀʙᴏᴜᴛ ᴀʟʟ ғᴇᴀᴛᴜʀᴇs, ᴊᴏɪɴ ᴏᴜʀ  <a href='https://t.me/codeflix_bots'>ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ</a>.</b>
+<b>ᴛᴏ ᴋɴᴏᴡ ᴀʙᴏᴜᴛ ᴀʟʟ ғᴇᴀᴛᴜʀᴇs, ᴊᴏɪɴ ᴏᴜʀ  <a href='https://t.me/tgx_bots'>ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ</a>.</b>
 </details>
 
 <details>
@@ -186,7 +186,7 @@ python3 bot.py
 <h3>「 ᴄʀᴇᴅɪᴛs 」
 </h3>
 
-- <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://t.me/codeflix_bots)  ➻  [ᴏᴡɴᴇʀ](https://t.me/codeflix_bots) </b>
+- <b>[𝗧𝗚𝗫 𝗕𝗢𝗧𝗦](https://t.me/tgx_bots)  ➻  [ᴏᴡɴᴇʀ](https://t.me/tgx_bots) </b>
 - <b>[ʜᴀʀsʜᴀʟ ᴘᴜʀᴏʜɪᴛ](https://t.me/sd_bots)  ➻  [ʙᴀsᴇ ᴄᴏᴅᴇ](https://github.com/HarshalPurohitEdits/TheMovieProviderBot/tree/main) </b>
 - <b>[ᴍɪᴋᴇʏ](https://github.com/sewxiy)  ➻  [ᴇᴠᴇʀʏᴛʜɪɴɢ](https://sewxiy) </b>
  
@@ -213,12 +213,12 @@ python3 bot.py
 
  # <b>ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ ᴍʏ ᴄʀᴇᴅɪᴛ...
 
-<b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://t.me/codeflix_bots)</b>
+<b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[𝗧𝗚𝗫 𝗕𝗢𝗧𝗦](https://t.me/tgx_bots)</b>
 
-- ᴄʀᴇᴅɪᴛ <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://t.me/codeflix_bots)  ➻  [ᴏᴡɴᴇʀ](https://t.me/sewxiy) </b>
+- ᴄʀᴇᴅɪᴛ <b>[𝗧𝗚𝗫 𝗕𝗢𝗧𝗦](https://t.me/tgx_bots)  ➻  [ᴏᴡɴᴇʀ](https://t.me/sewxiy) </b>
 - ᴘʟᴇᴀsᴇ ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ ᴄʀᴇᴅɪᴛ..
-- ᴛʜᴀɴᴋ ʏᴏᴜ ᴄᴏᴅᴇғʟɪx ʙᴏᴛs ғᴏʀ ʜᴇʟᴘɪɴɢ ᴜs ɪɴ ᴛʜɪs ᴊᴏᴜʀɴᴇʏ 
+- ᴛʜᴀɴᴋ ʏᴏᴜ 𝗧𝗚𝗫 𝗕𝗢𝗧𝗦 ғᴏʀ ʜᴇʟᴘɪɴɢ ᴜs ɪɴ ᴛʜɪs ᴊᴏᴜʀɴᴇʏ 
 - ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ɢɪᴠɪɴɢ ᴍᴇ ᴄʀᴇᴅɪᴛ @Codeflix-bots  
-- ғᴏʀ ᴀɴʏ ᴇʀʀᴏʀ ᴘʟᴇᴀsᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ -> ᴛᴇʟᴇɢʀᴀᴍ @codeflix_bots Community @Otakflix_Network </b>
+- ғᴏʀ ᴀɴʏ ᴇʀʀᴏʀ ᴘʟᴇᴀsᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ -> ᴛᴇʟᴇɢʀᴀᴍ @tgx_bots Community @Otakflix_Network </b>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

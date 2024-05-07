@@ -15,7 +15,7 @@ async def handwrite(_, message: Message):
         req = requests.get(API).url
         await message.reply_photo(
             photo=req,
-            caption="""<b>✍  ʙʏ  -  <a href=https://telegram.me/team_netflix>@team_netflix</a></b>""",
+            caption="""<b>✍  ʙʏ  -  <a href=https://telegram.me/tgxupdate>@tgxupdate</a></b>""",
             reply_markup=InlineKeyboardMarkup(
                 [[InlineKeyboardButton("📑    ᴛᴇʟᴇɢʀᴀᴘʜ  ʟɪɴᴋ    📑", url=f"{req}")]]
             ),
