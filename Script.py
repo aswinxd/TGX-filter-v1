@@ -348,10 +348,10 @@ Mᴏᴠɪᴇs Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ Rᴇᴀsᴏɴ:
 <b>• {file_name}
 ╭──────────────────╮
 • <a href="https://t.me/teamtgx">𝙏𝙂𝙓 𝙏𝙀𝘼𝙈</a>
-• <a href="https://t.me/+fAjYIpR5Ju02M2Q1">𝗧𝗚𝗫 𝗦𝗘𝗥𝗜𝗘𝗦</a>
-• <a href="https://t.me/+KeFIjHXhzLMyMWZl">𝗧𝗚𝗫 𝗠𝗢𝗩𝗜𝗘𝗦</a>
+• <a href="https://t.me/+9yl7Ftz35BUxNjc9">𝗧𝗚𝗫 𝗦𝗘𝗥𝗜𝗘𝗦</a>
+• <a href="https://t.me/+XyDcpEbNyyQzZTA1">𝗧𝗚𝗫 𝗠𝗢𝗩𝗜𝗘𝗦</a>
 • <a href="https://t.me/+KeFIjHXhzLMyMWZl">𝙏𝙂𝙓 𝘼𝙉𝙄𝙈𝙀</a>
-• <a href="https://t.me/+KeFIjHXhzLMyMWZl">𝙏𝙂𝙓 𝘼𝘿𝙐𝙇𝙏𝙎</a>
+• <a href="https://t.me/+-gFKhzXk7v4wNGU9">𝙏𝙂𝙓 𝘼𝘿𝙐𝙇𝙏𝙎</a>
 ╰──────────────────╯
 
 • ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href="https://t.me/tgx_bots/161">𝗧𝗚𝗫 𝗕𝗢𝗧𝗦</a></b>"""
