@@ -106,7 +106,7 @@ async def link_handler(Mbot, message):
                await Mbot.send_message(LOG_GROUP, traceback.format_exc())
           #     await message.reply(tracemsg)
             ##optinal 
-            await message.reply(f"400: Sorry, Unable To Find It  try another or report it  to @VeldXd or support chat https://t.me/+DnmZbLjS0iw0YWI1")
+            await message.reply(f"400: Sorry, Unable To Find It  try another or report it  to @Legendary_Sharingan or support chat https://t.me/+DnmZbLjS0iw0YWI1")
 
         finally:
             if 'dump_file' in locals():

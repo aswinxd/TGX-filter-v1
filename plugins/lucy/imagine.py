@@ -3,7 +3,7 @@
 Copyright (c) 2023-24 Erotixe
 
           GITHUB: Erotixe
-          TELEGRAM: @VeldXd
+          TELEGRAM: @Legendary_Sharingan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -52,7 +52,7 @@ sᴜᴄᴇssғᴜʟʟʏ Gᴇɴᴇʀᴀᴛᴇᴅ 💘
     await b.send_media_group(message.chat.id, media=photos)
     
 # -----------CREDITS -----------
-# telegram : @VeldXd
+# telegram : @Legendary_Sharingan
 # github : Erotixe
 mod_name = "Aɪ ɪᴍᴀɢᴇ"
 help = """

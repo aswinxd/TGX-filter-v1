@@ -2,7 +2,7 @@ from pyrogram import filters
 from pyrogram import Client
 import requests 
 
-#made by t.me/Veldxd
+#made by t.me/Legendary_Sharingan
 
 @Client.on_message(filters.command("test"))
 async def test(_, m):
