@@ -1576,7 +1576,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             else:
                 await query.answer("🚸 ɴᴏᴛᴇ :\nᴀᴅ-ꜰʀᴇᴇ ꜱᴇʀᴠɪᴄᴇ ɪꜱ ᴏɴʟʏ ꜰᴏʀ ᴘʀᴇᴍɪᴜᴍ ᴜꜱᴇʀꜱ.\n\nᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ ᴄʜᴇᴄᴋ ᴘʟᴀɴꜱ.", show_alert=True)
                 await query.message.reply_text(
-                text="<b>‼️ ᴡᴀɴᴛ ᴛᴏ ʀᴇᴍᴏᴠᴇ ᴀᴅꜱ ?\n\nthis function is under maintenance please contact @Legendary_Sharingan for more</b>",
+                text="<b>‼️NOTE: \n\nthis function is under maintenance please contact @Legendary_Sharingan for more</b>",
                 quote=True,
                 disable_web_page_preview=True,                  
                 reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("come back later", callback_data='seeplans')]]))
