@@ -90,7 +90,7 @@ Here's a tutorial on how to deploy Lucy Bot - <b>[ᴛᴜᴛᴏʀɪᴀʟ](https:/
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* `GOOGLE_API_KEY` : Get the value from [ɢᴏᴏɢʟᴇ ᴀɪ](https://t.me/sewxiy)
+* `GOOGLE_API_KEY` : Get the value from [ɢᴏᴏɢʟᴇ ᴀɪ](https://t.me/Hikakekam)
 * Check [info.py](https://github.com/erotixe/AutoFilter/blob/main/info.py) for more optional variables
 </details>
 
@@ -188,7 +188,7 @@ python3 bot.py
 
 - <b>[𝗧𝗚𝗫 𝗕𝗢𝗧𝗦](https://t.me/tgx_bots)  ➻  [ᴏᴡɴᴇʀ](https://t.me/tgx_bots) </b>
 - <b>[ʜᴀʀsʜᴀʟ ᴘᴜʀᴏʜɪᴛ](https://t.me/sd_bots)  ➻  [ʙᴀsᴇ ᴄᴏᴅᴇ](https://github.com/HarshalPurohitEdits/TheMovieProviderBot/tree/main) </b>
-- <b>[ᴍɪᴋᴇʏ](https://github.com/sewxiy)  ➻  [ᴇᴠᴇʀʏᴛʜɪɴɢ](https://sewxiy) </b>
+- <b>[ᴍɪᴋᴇʏ](https://github.com/Hikakekam)  ➻  [ᴇᴠᴇʀʏᴛʜɪɴɢ](https://Hikakekam) </b>
  
 <b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/codeflix-bots) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ 𝐋ᴜᴄʏ ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤 </b>
 
@@ -215,7 +215,7 @@ python3 bot.py
 
 <b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[𝗧𝗚𝗫 𝗕𝗢𝗧𝗦](https://t.me/tgx_bots)</b>
 
-- ᴄʀᴇᴅɪᴛ <b>[𝗧𝗚𝗫 𝗕𝗢𝗧𝗦](https://t.me/tgx_bots)  ➻  [ᴏᴡɴᴇʀ](https://t.me/sewxiy) </b>
+- ᴄʀᴇᴅɪᴛ <b>[𝗧𝗚𝗫 𝗕𝗢𝗧𝗦](https://t.me/tgx_bots)  ➻  [ᴏᴡɴᴇʀ](https://t.me/Hikakekam) </b>
 - ᴘʟᴇᴀsᴇ ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ ᴄʀᴇᴅɪᴛ..
 - ᴛʜᴀɴᴋ ʏᴏᴜ 𝗧𝗚𝗫 𝗕𝗢𝗧𝗦 ғᴏʀ ʜᴇʟᴘɪɴɢ ᴜs ɪɴ ᴛʜɪs ᴊᴏᴜʀɴᴇʏ 
 - ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ɢɪᴠɪɴɢ ᴍᴇ ᴄʀᴇᴅɪᴛ @Codeflix-bots  

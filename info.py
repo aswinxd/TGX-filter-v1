@@ -39,7 +39,7 @@ NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/549fd9f3272214acade82.j
 MELCOW_VID = environ.get("MELCOW_VID", "https://graph.org/file/ccf3cbc4687263ac63420.jpg")
 SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/549fd9f3272214acade82.jpg")
 SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://graph.org/file/347c1f79f36d3cf14e0f5.jpg'))
-CODE = (environ.get('CODE', 'https://graph.org/file/02e7ecc3e2693b481b914.jpg'))
+CODE = (environ.get('CODE', 'tgx_help'))
 
 
 # Command
