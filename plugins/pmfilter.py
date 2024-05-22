@@ -2883,10 +2883,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('• ɢʀᴏᴜᴘ •', url="t.me/tgx_movie"),
             InlineKeyboardButton('• ᴜᴘᴅᴀᴛᴇs •', url="t.me/tgxupdate")
        ],[
-            InlineKeyboardButton('• sᴇʀɪᴇsғʟɪx •', url="https://t.me/+fAjYIpR5Ju02M2Q1"),
-            InlineKeyboardButton('• ᴍᴏᴠɪᴇғʟɪx •', url="https://t.me/+KeFIjHXhzLMyMWZl")
+            InlineKeyboardButton('• sᴇʀɪᴇsғʟɪx •', url="https://t.me/+bhLbYvEDzuEzOWZl"),
+            InlineKeyboardButton('• ᴍᴏᴠɪᴇғʟɪx •', url="https://t.me/+t6i_EMOc1A4yODhl")
        ],[
-            InlineKeyboardButton('• ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ •', url="https://t.me/Anime_Cruise_Netflix")
+            InlineKeyboardButton('• ᴀɴɪᴍᴇ •', url="https://t.me/+-mfJiXAssINiOTZl")
        ],[ 
             InlineKeyboardButton('◁ ʙᴀᴄᴋ', callback_data='start')
         ]]
