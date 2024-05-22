@@ -34,12 +34,13 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "")
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://graph.org/file/5e1f8888547a1a896a902.jpg https://graph.org/file/9649c1dcbae09f2e7700e.jpg')).split() #SAMPLE PIC
-NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/549fd9f3272214acade82.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://graph.org/file/ccf3cbc4687263ac63420.jpg")
-SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/549fd9f3272214acade82.jpg")
-SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://graph.org/file/347c1f79f36d3cf14e0f5.jpg'))
-CODE = (environ.get('CODE', 'tgx_help'))
+PICS = (environ.get('PICS', 'https://graph.org/file/5e1f8888547a1a896a902.jpg')).split() #SAMPLE PIC
+NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/5e1f8888547a1a896a902.jpg")
+MELCOW_VID = environ.get("MELCOW_VID", "https://graph.org/file/5e1f8888547a1a896a902.jpg")
+SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/5e1f8888547a1a896a902.jpg")
+SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://graph.org/file/5e1f8888547a1a896a902.jpg'))
+CODE = (environ.get('CODE', 'https://graph.org/file/5e1f8888547a1a896a902.jpg'))
+
 
 
 # Command
