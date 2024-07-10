@@ -71,7 +71,7 @@ SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(
 NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False)) # True if you want no results messages in Log Channel
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb://clvwojeev001ma4me080f58xy:ebBrrCqWvO3HmFYFQnPmAc7s@104.251.218.202:9014/?readPreference=primary&ssl=false")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb://mongo:101f8843d3558f6490d9@104.251.218.202:9004/?readPreference=primary&ssl=false")
 DATABASE_NAME = environ.get('DATABASE_NAME', "tgxmovie")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
